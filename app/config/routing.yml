@@ -1,0 +1,4 @@
+dshtutorial:
+    resource: "@DshtutorialBundle/Resources/config/routing.yml"
+    prefix:   /
+
