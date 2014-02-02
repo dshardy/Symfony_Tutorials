@@ -2928,6 +2928,7 @@ class appDevDebugProjectContainer extends Container
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/symfony/src/Symfony/Bundle/TwigBundle/Resources/views', 'Twig');
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle/Resources/views', 'Swiftmailer');
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Resources/views', 'Doctrine');
+        $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/src/Dsh/tutorialBundle/Resources/views', 'Dshtutorial');
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views', 'WebProfiler');
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/sensio/distribution-bundle/Sensio/Bundle/DistributionBundle/Resources/views', 'SensioDistribution');
         $instance->addPath('/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/app/Resources/views');
@@ -3394,6 +3395,7 @@ class appDevDebugProjectContainer extends Container
                 'AsseticBundle' => 'Symfony\\Bundle\\AsseticBundle\\AsseticBundle',
                 'DoctrineBundle' => 'Doctrine\\Bundle\\DoctrineBundle\\DoctrineBundle',
                 'SensioFrameworkExtraBundle' => 'Sensio\\Bundle\\FrameworkExtraBundle\\SensioFrameworkExtraBundle',
+                'DshtutorialBundle' => 'Dsh\\tutorialBundle\\DshtutorialBundle',
                 'WebProfilerBundle' => 'Symfony\\Bundle\\WebProfilerBundle\\WebProfilerBundle',
                 'SensioDistributionBundle' => 'Sensio\\Bundle\\DistributionBundle\\SensioDistributionBundle',
                 'SensioGeneratorBundle' => 'Sensio\\Bundle\\GeneratorBundle\\SensioGeneratorBundle',
