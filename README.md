@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Does this readme update if i edit it in Github online
+How about if i add another line...i know it does but just checking :)
+Lets add another line
+And then another one
+=======
 Symfony Standard Edition
 ========================
 
@@ -169,3 +175,4 @@ Enjoy!
 [11]: http://symfony.com/doc/2.4/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
+>>>>>>> bc48c7d86b062b2794b406c89e498eebd59a67f7
