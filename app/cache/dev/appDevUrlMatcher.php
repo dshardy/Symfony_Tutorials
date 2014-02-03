@@ -140,6 +140,11 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
             return $this->mergeDefaults(array_replace($matches, array('_route' => 'dshtutorial_homepage')), array (  '_controller' => 'Dsh\\tutorialBundle\\Controller\\DefaultController::indexAction',));
         }
 
+        // dshtutorial_newpage
+        if (0 === strpos($pathinfo, '/goodbye') && preg_match('#^/goodbye/(?P<dazvariable>[^/]++)$#s', $pathinfo, $matches)) {
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'dshtutorial_newpage')), array (  '_controller' => 'Dsh\\tutorialBundle\\Controller\\DazcontController::DazactAction',));
+        }
+
         throw 0 < count($allow) ? new MethodNotAllowedException(array_unique($allow)) : new ResourceNotFoundException();
     }
 }
