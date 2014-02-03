@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 493300,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/hello/name,1391461967,
 12b728,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/hello/name,1391461968,
+=======
+9d11ce,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391350553,
+65e08f,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391350624,
+12916e,127.0.0.1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/hello/tosser,1391350640,6f9dd8
+6f9dd8,127.0.0.1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/hello/tosser,1391350640,
+4787de,127.0.0.1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391350857,
+db40a8,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391351293,
+6fcedf,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391364579,2f8e14
+2f8e14,::1,GET,http://localhost/Symfony/Symfony_Tutorials/web/app_dev.php/,1391364579,
+>>>>>>> 6c74add0d693c9dc67af2368960bc49872a02ef1
