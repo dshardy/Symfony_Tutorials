@@ -1,7 +1,10 @@
 dshtutorial_homepage:
     pattern:  /hello/{name}
     defaults: { _controller: DshtutorialBundle:Default:index }
+<<<<<<< HEAD
 
 dshtutorial_newpage:
     pattern:  /goodbye/{dazvariable}
     defaults: { _controller: DshtutorialBundle:Dazcont:Dazact }
+=======
+>>>>>>> refs/heads/Laptopbranch

@@ -588,6 +588,7 @@
 [2014-02-02 18:09:39] event.DEBUG: Notified event "kernel.finish_request" to listener "Symfony\Component\Security\Http\Firewall::onKernelFinishRequest". [] []
 [2014-02-02 18:09:39] event.DEBUG: Notified event "kernel.terminate" to listener "Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onTerminate". [] []
 [2014-02-02 18:09:39] event.DEBUG: Notified event "kernel.terminate" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelTerminate". [] []
+<<<<<<< HEAD
 [2014-02-03 17:46:14] event.DEBUG: Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelRequest". [] []
 [2014-02-03 17:46:14] event.DEBUG: Notified event "kernel.request" to listener "Symfony\Bundle\FrameworkBundle\EventListener\SessionListener::onKernelRequest". [] []
 [2014-02-03 17:46:14] event.DEBUG: Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\FragmentListener::onKernelRequest". [] []
@@ -1570,3 +1571,5 @@
 [2014-02-03 19:51:42] event.DEBUG: Notified event "kernel.finish_request" to listener "Symfony\Component\Security\Http\Firewall::onKernelFinishRequest". [] []
 [2014-02-03 19:51:42] event.DEBUG: Notified event "kernel.terminate" to listener "Symfony\Bundle\SwiftmailerBundle\EventListener\EmailSenderListener::onTerminate". [] []
 [2014-02-03 19:51:42] event.DEBUG: Notified event "kernel.terminate" to listener "Symfony\Component\HttpKernel\EventListener\ProfilerListener::onKernelTerminate". [] []
+=======
+>>>>>>> refs/heads/Laptopbranch
