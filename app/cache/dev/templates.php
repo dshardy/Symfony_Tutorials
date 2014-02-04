@@ -77,7 +77,7 @@
   'SwiftmailerBundle:Collector:swiftmailer.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/swiftmailer-bundle/Symfony/Bundle/SwiftmailerBundle/Resources/views/Collector/swiftmailer.html.twig',
   'DoctrineBundle:Collector:db.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Resources/views/Collector/db.html.twig',
   'DoctrineBundle:Collector:explain.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/doctrine/doctrine-bundle/Doctrine/Bundle/DoctrineBundle/Resources/views/Collector/explain.html.twig',
-  'DshtutorialBundle:Default/Daz:daz.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/src/Dsh/tutorialBundle/Resources/views/Default/Daz/daz.html.twig',
+  'DshtutorialBundle:Daz:daz.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/src/Dsh/tutorialBundle/Resources/views/Daz/daz.html.twig',
   'DshtutorialBundle:Default:index.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/src/Dsh/tutorialBundle/Resources/views/Default/index.html.twig',
   'WebProfilerBundle:Collector:config.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/config.html.twig',
   'WebProfilerBundle:Collector:events.html.twig' => '/Users/darrenhardy/Sites/Symfony/Symfony_Tutorials/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Collector/events.html.twig',
