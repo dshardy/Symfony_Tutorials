@@ -176,3 +176,20 @@ Enjoy!
 [12]: http://symfony.com/doc/2.4/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.4/bundles/SensioGeneratorBundle/index.html
 >>>>>>> bc48c7d86b062b2794b406c89e498eebd59a67f7
+
+Daz notes:
+
+load assetic!!!
+
+
+
+
+
+
+
+
+
+
+
+
+

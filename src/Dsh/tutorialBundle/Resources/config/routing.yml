@@ -1,10 +1,4 @@
 dshtutorial_homepage:
     pattern:  /hello/{name}
     defaults: { _controller: DshtutorialBundle:Default:index }
-<<<<<<< HEAD
 
-dshtutorial_newpage:
-    pattern:  /goodbye/{dazvariable}
-    defaults: { _controller: DshtutorialBundle:Dazcont:Dazact }
-=======
->>>>>>> 6c74add0d693c9dc67af2368960bc49872a02ef1

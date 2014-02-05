@@ -67,3 +67,17 @@ swiftmailer:
     username:  "%mailer_user%"
     password:  "%mailer_password%"
     spool:     { type: memory }
+
+# Added by Daz
+
+<span class="c1">#in app/config/config.yml</span>
+ 
+<span class="l-Scalar-Plain">assetic</span><span class="p-Indicator">:</span>
+    <span class="l-Scalar-Plain">debug</span><span class="p-Indicator">:</span>          <span class="err">%</span><span class="l-Scalar-Plain">kernel.debug%</span>
+    <span class="l-Scalar-Plain">use_controller</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">false</span>
+    <span class="l-Scalar-Plain">bundles</span><span class="p-Indicator">:</span>        <span class="p-Indicator">[</span><span class="s">'MyBundle'</span><span class="p-Indicator">]</span>
+    <span class="l-Scalar-Plain">filters</span><span class="p-Indicator">:</span>
+        <span class="l-Scalar-Plain">cssrewrite</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">~</span>
+        <span class="l-Scalar-Plain">less</span><span class="p-Indicator">:</span>
+            <span class="l-Scalar-Plain">node</span><span class="p-Indicator">:</span>       <span class="l-Scalar-Plain">/usr/local/bin/node</span>
+            <span class="l-Scalar-Plain">node_paths</span><span class="p-Indicator">:</span> <span class="p-Indicator">[</span><span class="nv">/usr/local/lib/node</span><span class="p-Indicator">,</span> <span class="nv">/usr/local/lib/node_modules</span><span class="p-Indicator">]</span>
